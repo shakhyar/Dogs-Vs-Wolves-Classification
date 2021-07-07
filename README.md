@@ -69,3 +69,7 @@ _________________________________________________________________
 Epoch 40/40
 50/50 [==============================] - 6s 121ms/step - loss: 0.4551 - accuracy: 0.7919 - val_loss: 0.6353 - val_accuracy: 0.7200
 ```
+
+<h2>Result after training:</h2>
+<img src='download.png'>
+<h3>Graph Looks preety weird now, but still it predicts siberan Husky(which actually looks like a wolf) as dog and unseen rare wolves as wolf. So the model is doing preety good!</h3>
