@@ -1,6 +1,8 @@
 # Dogs-Vs-Wolves-Classification
 Dogs vs Wolves Classifier using Tensorflow and CNN
 
+<h3>Colab link: <a href='https://colab.research.google.com/drive/12Tm2M_-Dd56YA66ijmcHjdB1i2JZKE-F?usp=sharing'>Open in Colab</a></h3>
+
 <h2>Dataset</h2>
 Use this command to download the dataset from Kaggle 
 
