@@ -32,12 +32,13 @@ os.environ['KAGGLE_CONFIG_DIR'] = "/content/drive/MyDrive/Kaggle"
 
 """**Download the dataset**"""
 
-!kaggle datasets download -d harishvutukuri/dogs-vs-wolves --force
+# !kaggle datasets download -d harishvutukuri/dogs-vs-wolves --force
 
 #unzipping the zip files and deleting the zip files
-!unzip \*.zip  && rm *.zip
+# !unzip \*.zip  && rm *.zip
 
 import pathlib
+# add your dataset destination below
 data_dir = tf.keras.utils.get_file('/content/drive/MyDrive/Kaggle/data', origin="/content/drive/MyDrive/Kaggle/data")
 data_dir = pathlib.Path(data_dir)
 
