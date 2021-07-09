@@ -74,4 +74,4 @@ Epoch 40/40
 
 <h2>Result after training:</h2>
 <img src='download.png'>
-<h3>Graph Looks preety weird now, but still it predicts siberan Husky(which actually looks like a wolf) as dog and unseen rare wolves as wolf. So the model is doing preety good!</h3>
+<h3>Graph Looks pretty weird now, but still it predicts siberan Husky(which actually looks like a wolf) as dog and unseen rare wolves as wolf. So the model is doing pretty good!</h3>
